@@ -1,9 +1,14 @@
 .SlotImages {
-    display: grid | inline-grid;
+    display: grid  inline-grid;
     width: 50%;
   }
 
   .Start{
     display: grid;
     width: 50%;
+  }
+
+  body{
+    background-color: lightgreen;
+    width: 100%;
   }
